@@ -19,6 +19,7 @@ go version
 ## Section
 
 - Section 2 - [A Simple Start](2-a-simple-start/README.md)
+- Section 3 - [Deeper Into Go](3-deeper-into-go/README.md)
 
 ## Usage
 
