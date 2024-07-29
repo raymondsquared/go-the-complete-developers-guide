@@ -6,6 +6,10 @@ func main() {
 	// cards.saveToFile("my_cards")
 
 	// Reading from the hard drive
-	cards := newDeckFromFile("my_cards")
+	// cards := newDeckFromFile("my_cards")
+	// cards.print()
+
+	cards := newDeck()
+	cards.shuffle()
 	cards.print()
 }
